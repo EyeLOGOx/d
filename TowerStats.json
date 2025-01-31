@@ -37,7 +37,49 @@
                 "Cooldown": 0.75
             }
         ]
+    }, 
+
+{
+    "Haunted Fredbear": {
+        "Type": "AOE",
+        "Image": "rbxassetid://137417041814283",
+        "Rarity": "Forgotten",
+        "PlacePrice": 50000,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10000,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 500,
+                "Range": 24,
+                "Damage": 11000,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 750,
+                "Range": 27,
+                "Damage": 12000,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 1250,
+                "Range": 30,
+                "Damage": 13000,
+                "Cooldown": 0.3
+            }
+        ]
     },
+    
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
